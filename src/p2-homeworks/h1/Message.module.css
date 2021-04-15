@@ -47,8 +47,11 @@
 }
 
 .text {
+	min-width: 150px;
+	max-width: 300px;
 	margin-top: 10px;
 	margin-left: 10px;
+	word-wrap: break-word;
 	color: #b6c7b5;
 }
 
